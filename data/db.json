@@ -1,0 +1,77 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "Reactni 3 soatda o'rganish sirlari",
+      "body": "Reactni 3 soatda o'rganish sirlari Reactni 3 soatda o'rganish sirlari Reactni 3 soatda o'rganish sirlari"
+    },
+    {
+      "userId": 4,
+      "title": "joni",
+      "body": "nimdir ;ho;uoh;",
+      "id": 2
+    },
+    {
+      "userId": 4,
+      "title": "Jonibek",
+      "body": "Qodirov",
+      "id": 3
+    },
+    {
+      "userId": 4,
+      "title": "Jonibek",
+      "body": "Qodirov",
+      "id": 4
+    },
+    {
+      "userId": 4,
+      "title": "Jo",
+      "body": "oufwehesrphcoqwejdo;c",
+      "id": 5
+    },
+    {
+      "userId": 4,
+      "title": "dc'pejnvp'qjwdE",
+      "body": "",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "email": "ravshanjon@gmail.com",
+      "password": "$2a$10$Uy3z94XSGgBvzQam.f/hquUlfH/GU1AMtHn3K1m/0nzhjl0ra3RJy",
+      "firstName": "Jonib",
+      "lastName": "Qodir",
+      "id": 1
+    },
+    {
+      "email": "joni@gmail.com",
+      "password": "$2a$10$VAUD/1EVgdIeAJX/eGPEDeMlWMqik4Hbo5iaqg0UxgeYqENywYLtC",
+      "firstName": "Joni",
+      "lastName": "Qodi",
+      "id": 2
+    },
+    {
+      "email": "ali@gmail.com",
+      "password": "$2a$10$a1cgM5V0Ch.cSiTUmDSmPeHCnqrGXUQTPELbj/t3.GZ7hNVA/pNW2",
+      "firstName": "ali",
+      "lastName": "parvizov",
+      "id": 3
+    },
+    {
+      "email": "azizaahmedova@gmail.com",
+      "password": "$2a$10$b/AfNrWaoC/cVuJGSx2wh.cA9TjyVyoXFrIvfbHX/gcYrpjFqaDQC",
+      "firstName": "Aziza",
+      "lastName": "Ahmedova",
+      "id": 4
+    },
+    {
+      "email": "guli@gmail.com",
+      "password": "$2a$10$ZUnwS1atsUEqM38pTAVkHuNpBdrqJoe8BEWHdrdbEcUK4z99Cnbua",
+      "firstName": "Guli",
+      "lastName": "Oroqova",
+      "id": 5
+    }
+  ]
+}
